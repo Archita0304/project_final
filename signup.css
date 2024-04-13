@@ -1,0 +1,107 @@
+div.B{
+    border-radius: 5px;
+    border-color: rgb(43 52 59 / 83%);
+    border-style: none;
+    background-color:rgba(209, 209, 209, 0.28); 
+    box-shadow: 3px 3px 3px 3px rgba(64, 64, 64, 0.827);
+   width:480px; 
+   height:530px;
+font-family:'Times New Roman', Times, serif;
+font-size:1.5em;
+text-align:center;
+margin-left:450px;
+padding-left:10px;
+padding-bottom: 40px;
+padding-top: 10px;
+color:rgba(0, 0, 0, 0.877);
+font-weight: bolder;
+}
+body{
+    justify-content: center;
+    gap: 60px;
+    z-index:2;
+    background-image:url("https://prmceam.ac.in/wp-content/uploads/2015/03/background-learner1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:center;
+    background-attachment: fixed;
+    background-blend-mode:multiply;
+}
+.C{
+    font-display: bold;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #007bff;
+    margin-left:20px;
+    margin-top:15px;
+    width:120px;
+    height:40px;
+  border: none;
+  padding: 12px 0;
+  cursor: pointer;
+  width: 50%;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+
+}
+div h1{
+    margin-left:20px;
+}
+#num{
+    padding:20px;
+}
+#fname #email #pswrd {
+           border-radius: 10px;
+           width:20px;
+           height:3px;
+}
+input[type="text"],
+input[type="email"],
+ input[type="password"] {
+            width: 80%;
+            padding: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-sizing: border-box;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    }
+nav {
+      flex: 1;
+      text-align: right;
+    }
+    
+nav ul {
+      display: inline-block;
+      list-style-type: none;
+    }
+    
+nav ul li {
+      display: inline-block;
+      margin-right: 20px;
+    }
+a {
+      text-decoration: none;
+      color: #000000;
+      font-weight: bolder;
+      font-size: 25px;
+    }
+    
+p {
+      color: #555;
+    }
+    
+.container {
+      max-width: 1300px;
+      margin-bottom:-30px;
+      padding-left: 25px;
+      padding-right: 25px;
+    }       
+        
